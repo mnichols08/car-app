@@ -51,6 +51,8 @@
 
 
     //let yourCar = getCar()
+
+    // today I called this stupid :/
     let myCar = new Car(1990, 'Eagle', 'Talon', 'TSi', 'Blue' )
 
     
