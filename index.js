@@ -1,5 +1,4 @@
 (function() {
-
     class Car {
         constructor(year,make,model,trim,color) {
             this.color = color
